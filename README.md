@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-
 # 💫 About Me:
 I am a young and junior web developer with extensive experience in HTML, CSS, JavaScript, Node.js and Angular. I have worked on server management and configuration, implementing key services like DNS, DHCP, and FTP, along with strong expertise in LDAP and Active Directory. My professional background includes developing advanced applications with Angular and building and consuming robust APIs using Node.js. My passion for technology and continuous learning enables me to deliver comprehensive and efficient solutions for any digital project.
 
