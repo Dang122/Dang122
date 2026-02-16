@@ -1,4 +1,4 @@
-## Hi, I’m Daniel Aranguren <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+# Hi, I’m Daniel Aranguren <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F78A&width=510&lines=Welcome+to+my+GitHub;Web+Developer;Angular+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Cybersecurity" alt="Typing SVG" /></a>
 
